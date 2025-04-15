@@ -3,13 +3,9 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
+<h1>osTicket - Ticket Lifecycle: Intake Through Resolution (3/3)</h1>
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -132,4 +128,124 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 <br />
 <br />
+
+<p>
+13) Navigate to the Agent panel and login as John to work the ticket via the Support Desk.  Begin by accessing the ticket.  <br />
+  <br />
+<img src="https://i.imgur.com/Rdz5uI2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
+<br />
+<br />
+<strong><i>Note: In this example the Online Banking system was down due to an issue with a recent update, in the ticket panel Jane is able to alert relevant stakeholders and close the ticket.</i></strong>
+</p>
+<br />
+<br />
+
+14) First, assess the appropriate SLA status of the ticket.  Since this ticket only requires one department, but still is interrupting operations at a high-level assign Sev-B  <br />
+  <br />
+<img src="https://i.imgur.com/Rdz5uI2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
+<br />
+<br />
+<strong><i>Note: In this example the Online Banking system was down due to an issue with a recent update, in the ticket panel Jane is able to alert relevant stakeholders and close the ticket.</i></strong>
+</p>
+<br />
+<br />
+
+15) Next, since the user-reported help topic was inaccurate, i'll be changing the ticket help topic to "other".  The original topic was "Personal Computer Issues" but after further investigation, we found that the entire department is suffering from this issue.  <br />
+  <br />
+<img src="https://i.imgur.com/v5u8vqG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
+<br />
+<br />
+<strong><i>Note: In this example the Online Banking system was down due to an issue with a recent update, in the ticket panel Jane is able to alert relevant stakeholders and close the ticket.</i></strong>
+</p>
+<br />
+<br />
+
+16) Finally, ensure that the ticket is assigned to the user who will be working it.  In this case the ticket will be assigned to John Doe in support.  <br />
+  <br />
+<img src="https://i.imgur.com/bMIjZM1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
+<br />
+<br />
+</p>
+<br />
+<br />
+
+17) In this example, Adobe required a department-wide update so the status of this development was properly communicated as seen below.  <br />
+  <br />
+<img src="https://i.imgur.com/7AvK8uZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
+<br />
+<br />
+</p>
+<br />
+<br />
+
+18) After fixing the issue, resolve the ticket and make a note of the issue for possible similar issues in the future.  <br />
+  <br />
+<img src="https://i.imgur.com/7AvK8uZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
+<br />
+<br />
+</p>
+<br />
+<br />
+
+19) .  <br />
+  <br />
+<img src="https://i.imgur.com/KY6mtdY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
+<br />
+<br />
+</p>
+<br />
+<br />
+
+20) .  <br />
+  <br />
+<img src="https://i.imgur.com/ARpYi8n.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
+<br />
+<br />
+</p>
+<br />
+<br />
+
+21) .  <br />
+  <br />
+<img src="https://i.imgur.com/jpiYlGL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
+<br />
+<br />
+</p>
+<br />
+<br />
+
+22) .  <br />
+  <br />
+<img src="https://i.imgur.com/85t7pxS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
+<br />
+<br />
+</p>
+<br />
+<br />
+
+23) .  <br />
+  <br />
+<img src="https://i.imgur.com/m0cgoMK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
+<br />
+<br />
+</p>
+<br />
+<br />
+
+24) .  <br />
+  <br />
+<img src="https://i.imgur.com/t9pMECb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
+<br />
+<br />
+</p>
+<br />
+<br />
+
+
+
+
+
+
+
+
 
